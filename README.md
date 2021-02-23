@@ -1,5 +1,5 @@
-#:computer: SistemasProgramables :school_satchel:
-###:calendar: Enero - Julio 2021
+# <div align="center"> :computer: SistemasProgramables :school_satchel:
+### <div align="center"> :calendar: Enero - Julio 2021
 
 
 
