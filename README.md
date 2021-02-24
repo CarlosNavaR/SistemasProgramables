@@ -4,10 +4,16 @@
 ##### <div align="center">:floppy_disk: SCC-1023SC7B </div> ####
 ### <div align="center">:calendar: Enero - Julio 2021 </div> ###
 ***
-# :file_folder: Datos
+# :clipboard: Datos del alumno
 * **Nombre:** Nava Reyes Carlos
 * **# Control:** 17212163
 * **Equipo:** Los grumosos :bear:
 
+---
+
+# :necktie: Datos del asesor de la materia
+* **Nombre:** Leonardo Enriquez Alvarez
+* **Licenciatura:** Ingeniería electrónica, especialidad sistemas digitales
+* **Maestría:** Tecnologías de la información y comunicación
 
 
