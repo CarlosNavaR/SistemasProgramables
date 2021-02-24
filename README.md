@@ -16,4 +16,5 @@
 * **Licenciatura:** Ingeniería electrónica, especialidad sistemas digitales
 * **Maestría:** Tecnologías de la información y comunicación
 
-
+# :books: Actividades 
+1. [ :hourglass:  C0.1 Reto en clase](Blog/C0.1_IntegrarEquiposdeTrabajo.md "Equipo")
