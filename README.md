@@ -4,4 +4,10 @@
 ##### <div align="center">:floppy_disk: SCC-1023SC7B </div> ####
 ### <div align="center">:calendar: Enero - Julio 2021 </div> ###
 ***
+#:file_folder: Datos
+* **Nombre:** Nava Reyes Carlos
+* **# Control:** 17212163
+* **Equipo:** Los grumosos :bear:
+
+
 
