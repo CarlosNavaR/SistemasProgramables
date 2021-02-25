@@ -17,5 +17,6 @@
 * **Maestría:** Tecnologías de la información y comunicación
 
 # :books: Actividades 
-1. [ :hourglass:  C0.1 Reto en clase](Blog/C0.1_IntegrarEquiposdeTrabajo.md "Equipo")
+1. [ :hourglass:  C0.1 Integrar equipos de trabajo](Blog/C0.1_IntegrarEquiposdeTrabajo.md "Equipo")
+2. [ :hourglass:  C1.1 Electronica basica y elemento](Blog/C1.1_ElectronicaBasica_y_elementos.md "Equipo")
 
