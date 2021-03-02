@@ -17,6 +17,7 @@
 * **Maestría:** Tecnologías de la información y comunicación
 
 # :books: Actividades 
-1. [ :hourglass:  C0.1 Integrar equipos de trabajo](Blog/C0.1_IntegrarEquiposdeTrabajo.md "Equipo")
-2. [ :hourglass:  C1.1 Electronica basica y elemento](Blog/C1.1_ElectronicaBasica_y_elementos.md "Equipo")
+1. [ :hourglass:  C0.1 Integrar equipos de trabajo](Blog/C0.1_IntegrarEquiposdeTrabajo.md "Individual")
+2. [ :hourglass:  C1.1 Electronica basica y elemento](Blog/C1.1_ElectronicaBasica_y_elementos.md "Individual")
+3. [ :hourglass:  C1.2 Electronica basica - Circuitos](Blog/C1.2_ElectronicaBasica_circuitos.md "Individual")
 
