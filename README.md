@@ -22,4 +22,7 @@
 3. [ :hourglass:  C1.2 Electronica basica - Circuitos](Blog/C1.2_ElectronicaBasica_circuitos.md "Individual")
 4. [ :hourglass:  C1.2 circuito electrónico division de tension](Blog/C1.3_Circuito_electrónico_divisor_tensión.md "Individual")
 
+  
+- [ :bomb:  A1.2 Sensor Fotoresistivo](docs/A1.2_Sensor_FotoResistivo_NavaReyesCarlos.md "Individual")
+
 
