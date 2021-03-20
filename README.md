@@ -22,6 +22,7 @@
 3. [ :hourglass:  C1.2 Electronica basica - Circuitos](Blog/C1.2_ElectronicaBasica_circuitos_NavaReyesCarlos.md "Individual")
 4. [ :hourglass:  C1.3 circuito electrónico division de tension](Blog/C1.3_Circuito_electrónico_divisor_tensión_NavaReyesCarlos.md "Individual")
 5. [ :hourglass:  C1.4 Acondicionador de señal con un amplificador operacional](Blog/C1.4_AcondicionadorSeñal_AmOp_NavaReyesCarlos.md "Individual")
+6. [ :hourglass:  C1.5 Tipos de sensores - preguntas](Blog/C1.5_Tipos_de_Sensores_NavaReyesCarlos.md "Individual")
 
 - [ :bomb:  A1.1 parte 1 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB2_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.1 parte 2 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB3_NavaReyesCarlos.md "Equipo")
