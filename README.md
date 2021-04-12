@@ -27,5 +27,6 @@
 - [ :bomb:  A1.1 parte 1 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB2_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.1 parte 2 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB3_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.2 Sensor Fotoresistivo](docs/A1.2_Sensor_FotoResistivo_NavaReyesCarlos.md "Equipo")
+- [ :bomb:  A1.3 Tipos de Sensores Comerciales](docs/A1.3_Tipos_Sensores_Comerciales_LosGrumosos.md "Equipo")
 
 
