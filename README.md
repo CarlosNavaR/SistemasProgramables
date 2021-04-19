@@ -28,5 +28,6 @@
 - [ :bomb:  A1.1 parte 2 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB3_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.2 Sensor Fotoresistivo](docs/A1.2_Sensor_FotoResistivo_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.3 Tipos de Sensores Comerciales](docs/A1.3_Tipos_Sensores_Comerciales_LosGrumosos.md "Equipo")
+- [ :bomb:  A1.4 Tipos de Sensores Comerciales](docs/A1.4_Sensor_Temperatura_TMP36_NavaReyesCarlos.md "Equipo")
 
 
