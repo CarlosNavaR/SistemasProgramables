@@ -17,6 +17,7 @@
 * **Maestría:** Tecnologías de la información y comunicación
 
 # :books: Actividades 
+#### Unidad 1
 1. [ :hourglass:  C0.1 Integrar equipos de trabajo](Blog/C0.1_IntegrarEquiposdeTrabajo_NavaReyesCarlos.md "Individual")
 2. [ :hourglass:  C1.1 Electronica basica y elemento](Blog/C1.1_ElectronicaBasica_y_elementos_NavaReyesCarlos.md "Individual")
 3. [ :hourglass:  C1.2 Electronica basica - Circuitos](Blog/C1.2_ElectronicaBasica_circuitos_NavaReyesCarlos.md "Individual")
@@ -24,10 +25,17 @@
 5. [ :hourglass:  C1.4 Acondicionador de señal con un amplificador operacional](Blog/C1.4_AcondicionadorSeñal_AmOp_NavaReyesCarlos.md "Individual")
 6. [ :hourglass:  C1.5 Tipos de sensores - preguntas](Blog/C1.5_Tipos_de_Sensores_NavaReyesCarlos.md "Individual")
 
+#### Unidad 2
+
+1. [ :hourglass:  C2.1 Actuadores Neumatico e Hidraulicos](Blog/C2.1_ActuadoresNeumaticosHidraulicos_NavaReyesCarlos.md "Individual")
+
+---
+#### Unidad 1
 - [ :bomb:  A1.1 parte 1 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB2_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.1 parte 2 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB3_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.2 Sensor Fotoresistivo](docs/A1.2_Sensor_FotoResistivo_NavaReyesCarlos.md "Equipo")
 - [ :bomb:  A1.3 Tipos de Sensores Comerciales](docs/A1.3_Tipos_Sensores_Comerciales_LosGrumosos.md "Equipo")
-- [ :bomb:  A1.4 Tipos de Sensores Comerciales](docs/A1.4_Sensor_Temperatura_TMP36_NavaReyesCarlos.md "Equipo")
+- [ :bomb:  A1.4 Sensor de temperatura TMP36](docs/A1.4_Sensor_Temperatura_TMP36_NavaReyesCarlos.md "Equipo")
+#### Unidad 2
 
 
