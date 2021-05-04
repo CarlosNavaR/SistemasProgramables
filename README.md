@@ -39,4 +39,4 @@
 - [ :bomb:  A1.4 Sensor de temperatura TMP36](docs/A1.4_Sensor_Temperatura_TMP36_NavaReyesCarlos.md "Equipo")
 #### Unidad 2
 
-
+- [ :bomb:  A2.1 Tipos de actuadores comerciales](docs/A2A2.1_Tipos_actuadores_Comerciales-NavaCarlos-LosGrumosos.md "Equipo")
