@@ -29,6 +29,7 @@
 
 1. [ :hourglass:  C2.1 Actuadores Neumatico e Hidraulicos](Blog/C2.1_ActuadoresNeumaticosHidraulicos_NavaReyesCarlos.md "Individual")
 2. [ :hourglass:  C2.2 Actuadores eléctricos y sus tipos](Blog/C2.2_ActuadoresElectricos_NavaReyesCarlos.md "Individual")
+3. [ :hourglass:  C2.3 Circuito temporizador 555](Blog/C2.3-CircuitoTemporizador555-NavaReyesCarlos.md "Individual")
 
 ---
 #### Unidad 1
