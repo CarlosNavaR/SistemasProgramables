@@ -31,6 +31,10 @@
 2. [ :hourglass:  C2.2 Actuadores eléctricos y sus tipos](Blog/C2.2_ActuadoresElectricos_NavaReyesCarlos.md "Individual")
 3. [ :hourglass:  C2.3 Circuito temporizador 555](Blog/C2.3-CircuitoTemporizador555-NavaReyesCarlos.md "Individual")
 
+#### Unidad 3
+
+1. [ :hourglass:  C3.1 Arduino Salida digital](Blog/C3.1_ArduinoIDESalidaDigital_NavaReyesCarlos.md "Individual")
+2. [ :hourglass:  C3.2 Arduino entrada digital e impresion serial](Blog/C3.C3.2_ArduinoEntradaDigitaleImpresionSerial_NavaCarlos.md "Individual")
 ---
 #### Unidad 1
 - [ :bomb:  A1.1 parte 1 Reto fundamental de electronica](docs/A1.1_RetoFundamentalElectronicaB2_NavaReyesCarlos.md "Equipo")
