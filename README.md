@@ -35,8 +35,8 @@
 
 1. [ :hourglass:  C3.1 Arduino Salida digital](Blog/C3.1_ArduinoIDESalidaDigital_NavaReyesCarlos.md "Individual")
 2. [ :hourglass:  C3.2 Arduino entrada digital e impresion serial](Blog/C3.2_ArduinoEntradaDigitaleImpresionSerial_NavaCarlos.md "Individual")
-3. [ :hourglass:  C3.3 Arduino IDE Entrada Analoga y funcion serial](Blog/C3C3.3_Arduino_EntradaAnalogaFuncionSerial_NavaReyesCarlos.md "Individual")
-4. [ :hourglass:  C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](Blog/C3C3.4_Arduino_EntradaSalidaSensorFuncionSerial._NavaReyesCarlos.md "Individual")
+3. [ :hourglass:  C3.3 Arduino IDE Entrada Analoga y funcion serial](Blog/C3.3_Arduino_EntradaAnalogaFuncionSerial_NavaReyesCarlos.md "Individual")
+4. [ :hourglass:  C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](Blog/C3.4_Arduino_EntradaSalidaSensorFuncionSerial._NavaReyesCarlos.md "Individual")
 
 ---
 #### Unidad 1
