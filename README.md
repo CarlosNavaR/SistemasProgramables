@@ -66,4 +66,4 @@
 #### Unidad 3
 
 - [ :bomb: A3.1 Arduino sensor ultrasonico](docs/A3.1_Arduino_SensorUltrasonico_NavaCarlos_LosGrumosos.md 'Equipo')
-- - [ :bomb: A3.2 sensor touch](docs/A3.2_ESP32_SensorTouch_CarlosNava_LosGrumosos.md 'Equipo')
+- [ :bomb: A3.2 sensor touch](docs/A3.2_ESP32_SensorTouch_CarlosNava_LosGrumosos.md 'Equipo')
